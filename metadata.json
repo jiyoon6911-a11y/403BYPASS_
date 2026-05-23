@@ -1,0 +1,6 @@
+{
+  "name": "403 BYPASS",
+  "description": "누구에게나 열려있는 무대 - 모두가 차별 없이 예술을 경험하는 유니버설 서비스 플랫폼 403: BYPASS",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
